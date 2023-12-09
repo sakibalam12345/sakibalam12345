@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Sakib Ul Alam 👋</h1>
 <h3 align="center"> I'm a junior web developer with a focus on React. Passionate about crafting effective and user-friendly web solutions, I thrive in collaborative environments and am open to exciting projects.</h3>
+_________________
 
 ### 🎯 Current Status :
 
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sakib-ul-alam-1662632a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sakib-ul-alam-1662632a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakib-ul-alam-1662632a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sakib-ul-alam-1662632a4" height="30" width="40" /></a>
 </p>
 
 
@@ -27,8 +28,7 @@
 
 
 ### 📆 Summary Of My Profile : 
-[![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibalam12345&theme=dark) [![GitHub Repositories per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibalam12345&theme=dark)
-[![GitHub Most Committed Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibalam12345&theme=dark) [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibalam12345&theme=dark)
+[![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibalam12345&theme=dark) <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibalam12345&show_icons=true&locale=en&layout=compact" alt="sakibalam12345" /></p> [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibalam12345&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibalam12345&theme=dark)
 
 
 
