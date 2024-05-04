@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi , I'm Sakib Ul Alam 👋</h1>
-<h3 align="center"> I'm a junior web developer with a focus on React. Passionate about crafting effective and user-friendly web solutions, I thrive in collaborative environments and am open to exciting projects.</h3>
+<h3 align="center"> I'm a web developer with a focus on React. Passionate about crafting effective and user-friendly web solutions, I thrive in collaborative environments and am open to exciting projects.</h3>
 _________________
 
 ### 🎯 Current Status :
